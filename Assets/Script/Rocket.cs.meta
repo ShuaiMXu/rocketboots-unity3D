@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d12aeb2e825860c49bf189c8d2f354ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainEngine: {instanceID: 0}
+  - Death: {instanceID: 0}
+  - LevelWin: {instanceID: 0}
+  - mainEngineParticles: {instanceID: 0}
+  - DeathParticles: {instanceID: 0}
+  - LevelWinParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
